@@ -16,9 +16,13 @@ New Way Labs
 ##### Serviços:
 
 | Serviço | Porta | versão |
-|-------|------|-----|---|---|
+
 |php|9001|7.0|
+
 |nginx|8080|alpine_latest|
+
 |mysql|3306|8|
+
 |mongo|6379|5.0.5 |
+
 |redis|27017|4.1.11|
